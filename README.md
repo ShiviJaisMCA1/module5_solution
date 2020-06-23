@@ -1,2 +1,2 @@
 # mod5-solution
-ass5
+assignment5
